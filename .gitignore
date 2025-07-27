@@ -1,0 +1,13 @@
+# Node
+node_modules/
+dist/
+.env
+
+# VS Code
+.vscode/
+
+# Test coverage
+coverage/
+
+# Backend logs or temp files
+backend/logs/
